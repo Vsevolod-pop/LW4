@@ -23,6 +23,7 @@ while True:
         break
 z = log10((sin(x*x)/(fabs(cos(y))+2)))
 print('Искомое значение z =', z)
+print("GIT")
 
 
 
